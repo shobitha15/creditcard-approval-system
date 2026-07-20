@@ -1,0 +1,1 @@
+{"name":"credit-card-approval","description":"Credit approval scoring deployment","type":"python","runtime":"python-3.11","model_file":"models/best_model.pkl","entry_point":"deployment/inference.py"}
